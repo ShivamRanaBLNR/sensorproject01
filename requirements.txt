@@ -1,6 +1,7 @@
 pandas
 numpy 
 
--e .
+-e.
 #it will trigeer setup.py file form req.txt file
 #bina save krege chaloege to nhi run hoga..imp to note
+#Use the --user Option (if not in a virtual environment)
