@@ -1,0 +1,6 @@
+pandas
+numpy 
+
+-e .
+#it will trigeer setup.py file form req.txt file
+#bina save krege chaloege to nhi run hoga..imp to note
